@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Русский (Россия)" date_format="j M Y" time_format="H:i" currency_format="{value} {symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ru-RU" text_direction="LTR" addon_id="SV/SeperateStickyAndNormal" export_version="2">
+  <phrase title="seperator_normal_threads" addon_id="SV/SeperateStickyAndNormal" version_id="2000000" version_string="2.0.0"><![CDATA[Нормальные темы]]></phrase>
+  <phrase title="seperator_sticky_threads" addon_id="SV/SeperateStickyAndNormal" version_id="2000000" version_string="2.0.0"><![CDATA[Закрепленные темы]]></phrase>
+</language>
