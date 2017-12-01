@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Русский (Россия)" date_format="j M Y" time_format="H:i" currency_format="{value} {symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ru-RU" text_direction="LTR" addon_id="ThemeHouse/Holidays" export_version="2">
+  <phrase title="admin_navigation.th_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Праздники]]></phrase>
+  <phrase title="admin_permission.th_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Управлять праздниками]]></phrase>
+  <phrase title="cron_entry.th_updateCurrent_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Обновить текущий праздник]]></phrase>
+  <phrase title="option.th_currentHoliday_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Текущий праздник]]></phrase>
+  <phrase title="option.th_enableAutoHoliday_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Включить автоматический выбор праздника]]></phrase>
+  <phrase title="option_explain.th_currentHoliday_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Это нынешний стиль оформления праздника. Если Вы установили это при включенной опции, она скорее всего будет перезаписана.]]></phrase>
+  <phrase title="option_explain.th_enableAutoHoliday_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Мы попытаемся выбрать правильный дизайн праздника для применения, если это не выбрано, необходимо выбрать текущий стиль праздника с помощью настройки ниже.]]></phrase>
+  <phrase title="option_group.th_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[[TH] Праздники]]></phrase>
+  <phrase title="option_group_description.th_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop.th_avatarStyling_thanksgiving_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Стилистика аватаров]]></phrase>
+  <phrase title="style_prop.th_avatarStyling_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Стилистика аватаров]]></phrase>
+  <phrase title="style_prop.th_blockContainerStylingEven_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Block container styling (even)]]></phrase>
+  <phrase title="style_prop.th_blockContainerStylingOdd_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Block container styling (odd)]]></phrase>
+  <phrase title="style_prop.th_blockContainerStyling_thanksgiving_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Block container styling]]></phrase>
+  <phrase title="style_prop.th_categoryStripCenterEven_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Category strip center styling (even)]]></phrase>
+  <phrase title="style_prop.th_categoryStripCenterOdd_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Category strip center styling (odd)]]></phrase>
+  <phrase title="style_prop.th_categoryStripLeftEven_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Category strip left styling (even)]]></phrase>
+  <phrase title="style_prop.th_categoryStripLeftOdd_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Category strip left styling (odd)]]></phrase>
+  <phrase title="style_prop.th_categoryStripLeft_thanksgiving_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Category strip left styling]]></phrase>
+  <phrase title="style_prop.th_categoryStripRightEven_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Category strip right styling (even)]]></phrase>
+  <phrase title="style_prop.th_categoryStripRightOdd_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Category strip right styling (odd)]]></phrase>
+  <phrase title="style_prop.th_categoryStripRight_thanksgiving_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Category strip right styling]]></phrase>
+  <phrase title="style_prop.th_logoIconStyling_thanksgiving_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Стилистика логотипа]]></phrase>
+  <phrase title="style_prop.th_logoIconStyling_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Стилистика логотипа]]></phrase>
+  <phrase title="style_prop.th_navInnerCenter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Navigation bar center]]></phrase>
+  <phrase title="style_prop.th_navInnerLeft_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Navigation bar left]]></phrase>
+  <phrase title="style_prop.th_navInnerRight_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Navigation bar right]]></phrase>
+  <phrase title="style_prop_desc.th_avatarStyling_thanksgiving_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_avatarStyling_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_blockContainerStylingEven_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_blockContainerStylingOdd_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_blockContainerStyling_thanksgiving_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_categoryStripCenterEven_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_categoryStripCenterOdd_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_categoryStripLeftEven_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_categoryStripLeftOdd_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_categoryStripLeft_thanksgiving_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_categoryStripRightEven_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_categoryStripRightOdd_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_categoryStripRight_thanksgiving_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_logoIconStyling_thanksgiving_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_logoIconStyling_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_navInnerCenter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_navInnerLeft_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_navInnerRight_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_group.th_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[[TH] Праздники: Зима]]></phrase>
+  <phrase title="style_prop_group_desc.th_winter_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="th_add_holiday_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Добавить праздник]]></phrase>
+  <phrase title="th_calculate_start_end_date_callback_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Рассчитать начальную/конечную дату с обратным вызовом]]></phrase>
+  <phrase title="th_cannot_use_callback_and_start_end_date_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Вы не можете использовать обратный вызов и задавать дату начала/окончания]]></phrase>
+  <phrase title="th_disable_holiday_styling_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Выключить стилистику праздника]]></phrase>
+  <phrase title="th_edit_holiday_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Редактировать праздник]]></phrase>
+  <phrase title="th_enable_snow_effect_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Включить "снег"]]></phrase>
+  <phrase title="th_holiday_is_active_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Праздник активен]]></phrase>
+  <phrase title="th_holiday_options_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Настройки праздников]]></phrase>
+  <phrase title="th_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Праздники]]></phrase>
+  <phrase title="th_maximum_snow_flakes_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Минимальное количество снежинок]]></phrase>
+  <phrase title="th_min_flakes_cannot_be_greater_than_max_flakes_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Минимальные количество снежинок должно быть меньше, чем максимальные количество.]]></phrase>
+  <phrase title="th_minimum_snow_flakes_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Минимальное количество снежинок]]></phrase>
+  <phrase title="th_month_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Месяц]]></phrase>
+  <phrase title="th_no_holidays_currently_exist_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[В настоящее время нет праздников.]]></phrase>
+  <phrase title="th_priority_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Приоритет]]></phrase>
+  <phrase title="th_snow_effect_options_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Настройки снега]]></phrase>
+  <phrase title="th_snow_flake_character_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Символ снежинки]]></phrase>
+  <phrase title="th_snow_flakes_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Снежинки]]></phrase>
+  <phrase title="th_snow_flakes_must_be_between_min_and_max_flakes_holidays" addon_id="ThemeHouse/Holidays" version_id="1000070" version_string="1.0.0"><![CDATA[Снежинки должны быть между минимальными и максимальными каличеством]]></phrase>
+</language>
